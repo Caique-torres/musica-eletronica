@@ -1,2 +1,23 @@
-# musica-eletronica
-Da música produzida em pequenos clubes aos grandes palcos que reúnem milhares de pessoas: este projeto apresenta a evolução da música eletrônica, dos DJs e dos festivais. Vamos explorar os principais gêneros, artistas, tecnologias, culturas e momentos que ajudaram a transformar a cena eletrônica em um fenômeno global.
+# 🎧 Música Eletrônica: dos DJs aos Grandes Festivais
+
+Projeto desenvolvido com o NotebookLM sobre música eletrônica,
+DJs, produtores e grandes festivais.
+
+## 🤖 Projeto no NotebookLM
+
+Acessar o projeto no NotebookLM:[([](https://notebook.google.com/notebook/bde5d428-74a7-4464-b1d3-889ce6fd23aa/preview))]
+
+## 🎵 Temas 
+
+- História da música eletrônica
+- DJs e produtores
+- Gêneros musicais
+- Grandes festivais
+- Cena eletrônica no Brasil
+- Tecnologia e futuro da música eletrônica
+
+## 📚 Fontes
+
+As fontes utilizadas estão no arquivo [fontes.md](fontes.md).
+
+
