@@ -5,7 +5,7 @@ DJs, produtores e grandes festivais.
 
 ## 🤖 Projeto no NotebookLM
 
-Acessar o projeto no NotebookLM:[([](https://notebook.google.com/notebook/bde5d428-74a7-4464-b1d3-889ce6fd23aa/preview))]
+Acessar o projeto no NotebookLM: https://notebook.google.com/notebook/bde5d428-74a7-4464-b1d3-889ce6fd23aa/preview
 
 ## 🎵 Temas 
 
