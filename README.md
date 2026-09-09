@@ -20,4 +20,13 @@ DJs, produtores e grandes festivais.
 
 As fontes utilizadas estão no arquivo [fontes.md](fontes.md).
 
+## 🎯 Objetivo
+O objetivo deste projeto é explorar a história e a evolução da música eletrônica, abordando seus principais gêneros, DJs, produtores, grandes festivais, a cena eletrônica no Brasil e a influência da tecnologia na música.
+
+## 👨‍💻 Autor
+
+Caique Torres
+
+itHub
+
 
