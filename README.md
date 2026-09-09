@@ -25,8 +25,8 @@ O objetivo deste projeto é explorar a história e a evolução da música eletr
 
 ## 👨‍💻 Autor
 
-Caique Torres
+**Caique Torres**
 
-GitHub
+- 🐙 [GitHub](https://github.com/Caique-torres)
 
 
